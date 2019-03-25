@@ -2,7 +2,7 @@
 # The humans responsible & technology colophon
 
 # TEAM
-
+	Taylor Kent  kent@git.training	
     <name> -- <role> -- <twitter>
 
 # THANKS
