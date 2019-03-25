@@ -8,3 +8,6 @@ Not staged
 ## Deployment
 Hiho
 Sample website with plenty of files for demos
+
+###Copyright
+Git. training 2019
